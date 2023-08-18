@@ -1,2 +1,8 @@
+<<<<<<< HEAD
 Hi am Bangldeshi...
 I live in Gazipur ..
+=======
+Hello iam nasir chowdhury
+I am 19 years old 
+iam BBA Student..
+>>>>>>> ccca45da2b95f06127549a5c885390ca1e98fef8
