@@ -5,16 +5,10 @@ I have complted bsc exam in 2023.
 I have complte of my computer science at uu..
 I have completed my msc 2018
 I am staring my job in the use rea of the real life...
-<<<<<<< HEAD
 who are you this name are short name of bangladesh???????
-<<<<<<< HEAD
 I am student of class 9, how are you iam not working in my baangladesh......
-=======
 I am working java Developer job in my office at the use programms 
 logo alignment solve in the area
 I am BBA exam in 2027....
-
->>>>>>> eefbd57eaff018852850fb720e5a712f7275dadf
-=======
 I am BBA Programe in Uttara university ,, I completed in 2027 BBA Dregree in Bachorer oof Dregree...
->>>>>>> feature2
+
